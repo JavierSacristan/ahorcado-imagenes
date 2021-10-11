@@ -1,0 +1,37 @@
+body {
+    font-family: sans-serif;
+    background-color: #cfd5f0;
+    margin-left: 10%;
+    margin-right: 10%;
+  }
+
+div {
+    padding: 2%;
+}
+
+section{
+    width: 60%;
+    float: left;
+    background-color:#9AA8E6;
+    padding: 2%;
+    text-align: center;
+}
+
+#palabra, #fallos {
+    font-size: larger;
+    color: deeppink;
+}
+
+#letra {
+    width : 20px; 
+    font-size: larger;
+    color: deeppink;
+}
+
+aside {
+    width: 30%;
+    float: right;
+    padding: 2%;
+    font-style: italic;
+    background-color:#9AA8E6;
+}
